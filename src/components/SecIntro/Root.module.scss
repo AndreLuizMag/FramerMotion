@@ -1,0 +1,12 @@
+.root {
+  padding: 4rem;
+
+  .content {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1rem;
+    padding: 4rem;
+    border-radius: 2rem;
+    background-color: rgb(41, 41, 41);
+  }
+}
